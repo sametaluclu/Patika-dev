@@ -6,7 +6,7 @@ public class alan {
     double a = input.nextDouble();
 
     System.out.print("Üçgenin 2. kenarını giriniz: ");
-    double b = input.nextDouble();1
+    double b = input.nextDouble();
 
     System.out.print("Üçgenin 3. kenarını giriniz: ");
     double c = input.nextDouble();
